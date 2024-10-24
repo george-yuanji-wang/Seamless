@@ -1,0 +1,392 @@
+[
+    {
+        "core_values": {
+            "average_degree": 11.24,
+            "clustering_coefficient": 0.3752,
+            "radius": 1.83,
+            "diameter": 12,
+            "average_path_length": 5.32,
+            "density": 0.0754
+        },
+        "id": 1,
+        "center_coordinate_lat": 37.78731,
+        "center_coordinate_lon": -122.455194,
+        "radius": 1827.91,
+        "accessibility_score": -0.5681
+    },
+    {
+        "core_values": {
+            "average_degree": 10.94,
+            "clustering_coefficient": 0.4013,
+            "radius": 1.27,
+            "diameter": 14,
+            "average_path_length": 5.54,
+            "density": 0.0835
+        },
+        "id": 3,
+        "center_coordinate_lat": 37.767221,
+        "center_coordinate_lon": -122.401586,
+        "radius": 1271.25,
+        "accessibility_score": -0.192
+    },
+    {
+        "core_values": {
+            "average_degree": 10.62,
+            "clustering_coefficient": 0.4086,
+            "radius": 0.75,
+            "diameter": 12,
+            "average_path_length": 4.71,
+            "density": 0.1235
+        },
+        "id": 4,
+        "center_coordinate_lat": 37.785928,
+        "center_coordinate_lon": -122.422206,
+        "radius": 751.17,
+        "accessibility_score": 0.7527
+    },
+    {
+        "core_values": {
+            "average_degree": 11.13,
+            "clustering_coefficient": 0.3831,
+            "radius": 1.92,
+            "diameter": 11,
+            "average_path_length": 4.79,
+            "density": 0.0837
+        },
+        "id": 7,
+        "center_coordinate_lat": 37.780834,
+        "center_coordinate_lon": -122.471626,
+        "radius": 1915.69,
+        "accessibility_score": -0.1648
+    },
+    {
+        "core_values": {
+            "average_degree": 10.91,
+            "clustering_coefficient": 0.3949,
+            "radius": 1.15,
+            "diameter": 15,
+            "average_path_length": 5.98,
+            "density": 0.0768
+        },
+        "id": 8,
+        "center_coordinate_lat": 37.774067,
+        "center_coordinate_lon": -122.390893,
+        "radius": 1145.0,
+        "accessibility_score": 0.4335
+    },
+    {
+        "core_values": {
+            "average_degree": 11.4,
+            "clustering_coefficient": 0.3802,
+            "radius": 2.7,
+            "diameter": 10,
+            "average_path_length": 4.98,
+            "density": 0.0678
+        },
+        "id": 9,
+        "center_coordinate_lat": 37.762874,
+        "center_coordinate_lon": -122.462173,
+        "radius": 2695.04,
+        "accessibility_score": 0.1848
+    },
+    {
+        "core_values": {
+            "average_degree": 11.09,
+            "clustering_coefficient": 0.3966,
+            "radius": 2.14,
+            "diameter": 16,
+            "average_path_length": 6.33,
+            "density": 0.0603
+        },
+        "id": 10,
+        "center_coordinate_lat": 37.792032,
+        "center_coordinate_lon": -122.406581,
+        "radius": 2138.58,
+        "accessibility_score": -0.7708
+    },
+    {
+        "core_values": {
+            "average_degree": 11.0,
+            "clustering_coefficient": 0.3972,
+            "radius": 1.07,
+            "diameter": 16,
+            "average_path_length": 6.67,
+            "density": 0.055
+        },
+        "id": 18,
+        "center_coordinate_lat": 37.770095,
+        "center_coordinate_lon": -122.422961,
+        "radius": 1066.55,
+        "accessibility_score": 0.1182
+    },
+    {
+        "core_values": {
+            "average_degree": 11.02,
+            "clustering_coefficient": 0.396,
+            "radius": 1.55,
+            "diameter": 10,
+            "average_path_length": 4.47,
+            "density": 0.1091
+        },
+        "id": 23,
+        "center_coordinate_lat": 37.752268,
+        "center_coordinate_lon": -122.41146,
+        "radius": 1548.68,
+        "accessibility_score": 0.5681
+    },
+    {
+        "core_values": {
+            "average_degree": 11.41,
+            "clustering_coefficient": 0.3867,
+            "radius": 2.17,
+            "diameter": 15,
+            "average_path_length": 6.33,
+            "density": 0.0492
+        },
+        "id": 25,
+        "center_coordinate_lat": 37.789025,
+        "center_coordinate_lon": -122.393155,
+        "radius": 2172.57,
+        "accessibility_score": -0.0631
+    },
+    {
+        "core_values": {
+            "average_degree": 10.73,
+            "clustering_coefficient": 0.4005,
+            "radius": 1.11,
+            "diameter": 11,
+            "average_path_length": 5.11,
+            "density": 0.0858
+        },
+        "id": 26,
+        "center_coordinate_lat": 37.776884,
+        "center_coordinate_lon": -122.414139,
+        "radius": 1105.53,
+        "accessibility_score": -0.1738
+    },
+    {
+        "core_values": {
+            "average_degree": 11.17,
+            "clustering_coefficient": 0.39,
+            "radius": 2.74,
+            "diameter": 13,
+            "average_path_length": 5.72,
+            "density": 0.0646
+        },
+        "id": 27,
+        "center_coordinate_lat": 37.7543,
+        "center_coordinate_lon": -122.433918,
+        "radius": 2738.54,
+        "accessibility_score": -1.0
+    },
+    {
+        "core_values": {
+            "average_degree": 11.01,
+            "clustering_coefficient": 0.3993,
+            "radius": 0.7,
+            "diameter": 15,
+            "average_path_length": 6.04,
+            "density": 0.0701
+        },
+        "id": 31,
+        "center_coordinate_lat": 37.761725,
+        "center_coordinate_lon": -122.416269,
+        "radius": 697.43,
+        "accessibility_score": 0.6556
+    },
+    {
+        "core_values": {
+            "average_degree": 10.48,
+            "clustering_coefficient": 0.4236,
+            "radius": 0.67,
+            "diameter": 7,
+            "average_path_length": 3.37,
+            "density": 0.2139
+        },
+        "id": 32,
+        "center_coordinate_lat": 37.801747,
+        "center_coordinate_lon": -122.436851,
+        "radius": 666.12,
+        "accessibility_score": 0.2114
+    },
+    {
+        "core_values": {
+            "average_degree": 11.07,
+            "clustering_coefficient": 0.4023,
+            "radius": 0.91,
+            "diameter": 12,
+            "average_path_length": 5.53,
+            "density": 0.0785
+        },
+        "id": 34,
+        "center_coordinate_lat": 37.773622,
+        "center_coordinate_lon": -122.446281,
+        "radius": 910.63,
+        "accessibility_score": 0.9314
+    },
+    {
+        "core_values": {
+            "average_degree": 11.13,
+            "clustering_coefficient": 0.3927,
+            "radius": 0.85,
+            "diameter": 9,
+            "average_path_length": 4.27,
+            "density": 0.1113
+        },
+        "id": 36,
+        "center_coordinate_lat": 37.778512,
+        "center_coordinate_lon": -122.459734,
+        "radius": 853.39,
+        "accessibility_score": 0.684
+    },
+    {
+        "core_values": {
+            "average_degree": 10.99,
+            "clustering_coefficient": 0.3974,
+            "radius": 0.78,
+            "diameter": 11,
+            "average_path_length": 4.86,
+            "density": 0.0964
+        },
+        "id": 37,
+        "center_coordinate_lat": 37.774771,
+        "center_coordinate_lon": -122.45287,
+        "radius": 775.07,
+        "accessibility_score": 1.0
+    },
+    {
+        "core_values": {
+            "average_degree": 11.36,
+            "clustering_coefficient": 0.3921,
+            "radius": 1.16,
+            "diameter": 10,
+            "average_path_length": 4.95,
+            "density": 0.0758
+        },
+        "id": 44,
+        "center_coordinate_lat": 37.798469,
+        "center_coordinate_lon": -122.424063,
+        "radius": 1155.21,
+        "accessibility_score": 0.3299
+    },
+    {
+        "core_values": {
+            "average_degree": 11.25,
+            "clustering_coefficient": 0.3996,
+            "radius": 0.98,
+            "diameter": 12,
+            "average_path_length": 5.48,
+            "density": 0.076
+        },
+        "id": 49,
+        "center_coordinate_lat": 37.774924,
+        "center_coordinate_lon": -122.439187,
+        "radius": 976.8,
+        "accessibility_score": 0.6413
+    },
+    {
+        "core_values": {
+            "average_degree": 11.15,
+            "clustering_coefficient": 0.3945,
+            "radius": 1.19,
+            "diameter": 11,
+            "average_path_length": 4.98,
+            "density": 0.0851
+        },
+        "id": 50,
+        "center_coordinate_lat": 37.788593,
+        "center_coordinate_lon": -122.432592,
+        "radius": 1187.42,
+        "accessibility_score": 0.5824
+    },
+    {
+        "core_values": {
+            "average_degree": 11.12,
+            "clustering_coefficient": 0.4025,
+            "radius": 1.01,
+            "diameter": 15,
+            "average_path_length": 6.21,
+            "density": 0.0662
+        },
+        "id": 85,
+        "center_coordinate_lat": 37.754575,
+        "center_coordinate_lon": -122.418146,
+        "radius": 1014.69,
+        "accessibility_score": 0.3538
+    },
+    {
+        "core_values": {
+            "average_degree": 11.45,
+            "clustering_coefficient": 0.3893,
+            "radius": 1.59,
+            "diameter": 14,
+            "average_path_length": 6.31,
+            "density": 0.0479
+        },
+        "id": 110,
+        "center_coordinate_lat": 37.759922,
+        "center_coordinate_lon": -122.389968,
+        "radius": 1592.75,
+        "accessibility_score": -0.2321
+    },
+    {
+        "core_values": {
+            "average_degree": 11.46,
+            "clustering_coefficient": 0.3938,
+            "radius": 0.71,
+            "diameter": 12,
+            "average_path_length": 6.02,
+            "density": 0.0576
+        },
+        "id": 117,
+        "center_coordinate_lat": 37.769559,
+        "center_coordinate_lon": -122.434058,
+        "radius": 706.85,
+        "accessibility_score": 0.7637
+    },
+    {
+        "core_values": {
+            "average_degree": 10.62,
+            "clustering_coefficient": 0.4039,
+            "radius": 0.66,
+            "diameter": 9,
+            "average_path_length": 3.74,
+            "density": 0.177
+        },
+        "id": 145,
+        "center_coordinate_lat": 37.777507,
+        "center_coordinate_lon": -122.431697,
+        "radius": 661.79,
+        "accessibility_score": 0.8971
+    },
+    {
+        "core_values": {
+            "average_degree": 11.29,
+            "clustering_coefficient": 0.3895,
+            "radius": 0.71,
+            "diameter": 13,
+            "average_path_length": 5.54,
+            "density": 0.0649
+        },
+        "id": 150,
+        "center_coordinate_lat": 37.764991,
+        "center_coordinate_lon": -122.450411,
+        "radius": 710.93,
+        "accessibility_score": 0.5125
+    },
+    {
+        "core_values": {
+            "average_degree": 11.47,
+            "clustering_coefficient": 0.3898,
+            "radius": 2.16,
+            "diameter": 10,
+            "average_path_length": 5.05,
+            "density": 0.0641
+        },
+        "id": 204,
+        "center_coordinate_lat": 37.740659,
+        "center_coordinate_lon": -122.38963,
+        "radius": 2161.98,
+        "accessibility_score": 0.0431
+    }
+]

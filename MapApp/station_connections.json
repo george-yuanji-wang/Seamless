@@ -1,0 +1,1055 @@
+[
+    {
+        "station1": "Embarcadero",
+        "station2": "Montgomery",
+        "lat1": 37.7931,
+        "lon1": -122.3972,
+        "lat2": 37.789355,
+        "lon2": -122.401942,
+        "color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "station1": "Montgomery",
+        "station2": "Powell",
+        "lat1": 37.789355,
+        "lon1": -122.401942,
+        "lat2": 37.784,
+        "lon2": -122.408,
+        "color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "station1": "Powell",
+        "station2": "Civic Center",
+        "lat1": 37.784,
+        "lon1": -122.408,
+        "lat2": 37.779861,
+        "lon2": -122.413498,
+        "color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "station1": "Civic Center",
+        "station2": "Van Ness",
+        "lat1": 37.779861,
+        "lon1": -122.413498,
+        "lat2": 37.775,
+        "lon2": -122.4189,
+        "color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "station1": "Van Ness",
+        "station2": "Church and Duboce",
+        "lat1": 37.775,
+        "lon1": -122.4189,
+        "lat2": 37.7694,
+        "lon2": -122.4292,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and Duboce",
+        "station2": "Church and Market",
+        "lat1": 37.7694,
+        "lon1": -122.4292,
+        "lat2": 37.7678,
+        "lon2": -122.42907,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and Market",
+        "station2": "Church and 16th Street",
+        "lat1": 37.7678,
+        "lon1": -122.42907,
+        "lat2": 37.7644,
+        "lon2": -122.4286,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and 16th Street",
+        "station2": "Church and 18th Street",
+        "lat1": 37.7644,
+        "lon1": -122.4286,
+        "lat2": 37.7614,
+        "lon2": -122.4283,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and 18th Street",
+        "station2": "Right Of Way/20th Street",
+        "lat1": 37.7614,
+        "lon1": -122.4283,
+        "lat2": 37.7583,
+        "lon2": -122.4278,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Right Of Way/20th Street",
+        "station2": "Right Of Way/Liberty Street",
+        "lat1": 37.7583,
+        "lon1": -122.4278,
+        "lat2": 37.7572,
+        "lon2": -122.4269,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Right Of Way/Liberty Street",
+        "station2": "Right Of Way/21st Street",
+        "lat1": 37.7572,
+        "lon1": -122.4269,
+        "lat2": 37.7567,
+        "lon2": -122.4269,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Right Of Way/21st Street",
+        "station2": "Church and 22nd Street",
+        "lat1": 37.7567,
+        "lon1": -122.4269,
+        "lat2": 37.755,
+        "lon2": -122.4278,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and 22nd Street",
+        "station2": "Church and 24th Street",
+        "lat1": 37.755,
+        "lon1": -122.4278,
+        "lat2": 37.7517,
+        "lon2": -122.4275,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and 24th Street",
+        "station2": "Church and Clipper",
+        "lat1": 37.7517,
+        "lon1": -122.4275,
+        "lat2": 37.7492,
+        "lon2": -122.4272,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and Clipper",
+        "station2": "Church and 27th Street",
+        "lat1": 37.7492,
+        "lon1": -122.4272,
+        "lat2": 37.7469,
+        "lon2": -122.4269,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and 27th Street",
+        "station2": "Church and 29th Street",
+        "lat1": 37.7469,
+        "lon1": -122.4269,
+        "lat2": 37.7442,
+        "lon2": -122.4267,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and 29th Street",
+        "station2": "Church and 30th Street",
+        "lat1": 37.7442,
+        "lon1": -122.4267,
+        "lat2": 37.7422,
+        "lon2": -122.4264,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Church and 30th Street",
+        "station2": "30th Street and Dolores",
+        "lat1": 37.7422,
+        "lon1": -122.4264,
+        "lat2": 37.7422,
+        "lon2": -122.4242,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "30th Street and Dolores",
+        "station2": "San Jose and Randall",
+        "lat1": 37.7422,
+        "lon1": -122.4242,
+        "lat2": 37.7397,
+        "lon2": -122.4242,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "San Jose and Randall",
+        "station2": "San Jose/Glen Park",
+        "lat1": 37.7397,
+        "lon1": -122.4242,
+        "lat2": 37.7325,
+        "lon2": -122.4339,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "San Jose/Glen Park",
+        "station2": "San Jose and Santa Rosa",
+        "lat1": 37.7325,
+        "lon1": -122.4339,
+        "lat2": 37.7289,
+        "lon2": -122.44,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "San Jose and Santa Rosa",
+        "station2": "San Jose and Santa Ynez",
+        "lat1": 37.7289,
+        "lon1": -122.44,
+        "lat2": 37.72578,
+        "lon2": -122.4424,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "San Jose and Santa Ynez",
+        "station2": "San Jose and Ocean",
+        "lat1": 37.72578,
+        "lon1": -122.4424,
+        "lat2": 37.7231,
+        "lon2": -122.4447,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "San Jose and Ocean",
+        "station2": "Balboa Park",
+        "lat1": 37.7231,
+        "lon1": -122.4447,
+        "lat2": 37.7217,
+        "lon2": -122.4475,
+        "color": "FFFF00"
+    },
+    {
+        "station1": "Van Ness",
+        "station2": "Church",
+        "lat1": 37.775,
+        "lon1": -122.4189,
+        "lat2": 37.76781388888889,
+        "lon2": -122.42906666666669,
+        "color": "ADD8E6, 800080, 008000"
+    },
+    {
+        "station1": "Church",
+        "station2": "Castro",
+        "lat1": 37.76781388888889,
+        "lon1": -122.42906666666669,
+        "lat2": 37.7625,
+        "lon2": -122.4356,
+        "color": "ADD8E6, 800080, 008000"
+    },
+    {
+        "station1": "Castro",
+        "station2": "Forest Hill",
+        "lat1": 37.7625,
+        "lon1": -122.4356,
+        "lat2": 37.74805555555556,
+        "lon2": -122.45916666666668,
+        "color": "ADD8E6, 800080, 008000"
+    },
+    {
+        "station1": "Forest Hill",
+        "station2": "West Portal",
+        "lat1": 37.74805555555556,
+        "lon1": -122.45916666666668,
+        "lat2": 37.7409,
+        "lon2": -122.466,
+        "color": "ADD8E6, 800080, 008000"
+    },
+    {
+        "station1": "West Portal",
+        "station2": "West Portal and 14th Avenue",
+        "lat1": 37.7409,
+        "lon1": -122.466,
+        "lat2": 37.7381,
+        "lon2": -122.4692,
+        "color": "ADD8E6, 008000"
+    },
+    {
+        "station1": "West Portal and 14th Avenue",
+        "station2": "St. Francis Circle",
+        "lat1": 37.7381,
+        "lon1": -122.4692,
+        "lat2": 37.7347,
+        "lon2": -122.47,
+        "color": "ADD8E6, 008000"
+    },
+    {
+        "station1": "St. Francis Circle",
+        "station2": "Junipero Serra and Ocean",
+        "lat1": 37.7347,
+        "lon1": -122.47,
+        "lat2": 37.7311,
+        "lon2": -122.4722,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "Junipero Serra and Ocean",
+        "station2": "Ocean and San Leandro",
+        "lat1": 37.7311,
+        "lon1": -122.4722,
+        "lat2": 37.73,
+        "lon2": -122.4694,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "Ocean and San Leandro",
+        "station2": "Ocean and Aptos",
+        "lat1": 37.73,
+        "lon1": -122.4694,
+        "lat2": 37.7283,
+        "lon2": -122.4678,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "Ocean and Aptos",
+        "station2": "Ocean and Fairfield/Ocean and Victoria",
+        "lat1": 37.7283,
+        "lon1": -122.4678,
+        "lat2": 37.72611111111112,
+        "lon2": -122.46416666666669,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "Ocean and Fairfield/Ocean and Victoria",
+        "station2": "Ocean and Dorado/Ocean and Jules",
+        "lat1": 37.72611111111112,
+        "lon1": -122.46416666666669,
+        "lat2": 37.725,
+        "lon2": -122.46111111111112,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "Ocean and Dorado/Ocean and Jules",
+        "station2": "Ocean and Miramar",
+        "lat1": 37.725,
+        "lon1": -122.46111111111112,
+        "lat2": 37.7244,
+        "lon2": -122.4583,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "Ocean and Miramar",
+        "station2": "Ocean and Leo",
+        "lat1": 37.7244,
+        "lon1": -122.4583,
+        "lat2": 37.72349,
+        "lon2": -122.4541,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "Ocean and Leo",
+        "station2": "Ocean Avenue/CCSF Pedestrian Bridge",
+        "lat1": 37.72349,
+        "lon1": -122.4541,
+        "lat2": 37.7231,
+        "lon2": -122.4522,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "Ocean Avenue/CCSF Pedestrian Bridge",
+        "station2": "Balboa Park",
+        "lat1": 37.7231,
+        "lon1": -122.4522,
+        "lat2": 37.7217,
+        "lon2": -122.4475,
+        "color": "ADD8E6"
+    },
+    {
+        "station1": "West Portal",
+        "station2": "Ulloa and 14th Avenue",
+        "lat1": 37.7409,
+        "lon1": -122.466,
+        "lat2": 37.7417,
+        "lon2": -122.47,
+        "color": "800080"
+    },
+    {
+        "station1": "Ulloa and 14th Avenue",
+        "station2": "15th Avenue and Taraval",
+        "lat1": 37.7417,
+        "lon1": -122.47,
+        "lat2": 37.7433,
+        "lon2": -122.4714,
+        "color": "800080"
+    },
+    {
+        "station1": "15th Avenue and Taraval",
+        "station2": "Taraval and 17th Avenue",
+        "lat1": 37.7433,
+        "lon1": -122.4714,
+        "lat2": 37.7431,
+        "lon2": -122.4736,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 17th Avenue",
+        "station2": "Taraval and 19th Avenue",
+        "lat1": 37.7431,
+        "lon1": -122.4736,
+        "lat2": 37.7431,
+        "lon2": -122.4756,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 19th Avenue",
+        "station2": "Taraval and 22nd Avenue/Taraval and 23rd Avenue",
+        "lat1": 37.7431,
+        "lon1": -122.4756,
+        "lat2": 37.74277777777778,
+        "lon2": -122.47888888888887,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 22nd Avenue/Taraval and 23rd Avenue",
+        "station2": "Taraval and 26th Avenue",
+        "lat1": 37.74277777777778,
+        "lon1": -122.47888888888887,
+        "lat2": 37.7428,
+        "lon2": -122.4831,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 26th Avenue",
+        "station2": "Taraval and 30th Avenue",
+        "lat1": 37.7428,
+        "lon1": -122.4831,
+        "lat2": 37.7425,
+        "lon2": -122.4875,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 30th Avenue",
+        "station2": "Taraval and 32nd Avenue",
+        "lat1": 37.7425,
+        "lon1": -122.4875,
+        "lat2": 37.7425,
+        "lon2": -122.4897,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 32nd Avenue",
+        "station2": "Taraval and Sunset",
+        "lat1": 37.7425,
+        "lon1": -122.4897,
+        "lat2": 37.7422,
+        "lon2": -122.4944,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and Sunset",
+        "station2": "Taraval and 40th Avenue",
+        "lat1": 37.7422,
+        "lon1": -122.4944,
+        "lat2": 37.7419,
+        "lon2": -122.4981,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 40th Avenue",
+        "station2": "Taraval and 42nd Avenue",
+        "lat1": 37.7419,
+        "lon1": -122.4981,
+        "lat2": 37.7419,
+        "lon2": -122.5003,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 42nd Avenue",
+        "station2": "Taraval and 44th Avenue",
+        "lat1": 37.7419,
+        "lon1": -122.5003,
+        "lat2": 37.7419,
+        "lon2": -122.5025,
+        "color": "800080"
+    },
+    {
+        "station1": "Taraval and 44th Avenue",
+        "station2": "46th Avenue and Taraval/46th Avenue",
+        "lat1": 37.7419,
+        "lon1": -122.5025,
+        "lat2": 37.7175,
+        "lon2": -122.47277777777778,
+        "color": "800080"
+    },
+    {
+        "station1": "46th Avenue and Taraval/46th Avenue",
+        "station2": "46th Avenue and Ulloa",
+        "lat1": 37.7175,
+        "lon1": -122.47277777777778,
+        "lat2": 37.74,
+        "lon2": -122.5044,
+        "color": "800080"
+    },
+    {
+        "station1": "46th Avenue and Ulloa",
+        "station2": "46th Avenue and Vicente",
+        "lat1": 37.74,
+        "lon1": -122.5044,
+        "lat2": 37.7381,
+        "lon2": -122.5044,
+        "color": "800080"
+    },
+    {
+        "station1": "46th Avenue and Vicente",
+        "station2": "Wawona and 46th Avenue",
+        "lat1": 37.7381,
+        "lon1": -122.5044,
+        "lat2": 37.7361,
+        "lon2": -122.5042,
+        "color": "800080"
+    },
+    {
+        "station1": "St. Francis Circle",
+        "station2": "Right Of Way/Ocean",
+        "lat1": 37.7347,
+        "lon1": -122.47,
+        "lat2": 37.7317,
+        "lon2": -122.4739,
+        "color": "008000"
+    },
+    {
+        "station1": "Right Of Way/Ocean",
+        "station2": "Right Of Way/Eucalyptus",
+        "lat1": 37.7317,
+        "lon1": -122.4739,
+        "lat2": 37.7311,
+        "lon2": -122.4744,
+        "color": "008000"
+    },
+    {
+        "station1": "Right Of Way/Eucalyptus",
+        "station2": "Stonestown Galleria",
+        "lat1": 37.7311,
+        "lon1": -122.4744,
+        "lat2": 37.7272,
+        "lon2": -122.4747,
+        "color": "008000"
+    },
+    {
+        "station1": "Stonestown Galleria",
+        "station2": "San Francisco State University",
+        "lat1": 37.7272,
+        "lon1": -122.4747,
+        "lat2": 37.7217,
+        "lon2": -122.4751,
+        "color": "008000"
+    },
+    {
+        "station1": "San Francisco State University",
+        "station2": "19th Avenue and Junipero Serra/19th Avenue and Randolph",
+        "lat1": 37.7217,
+        "lon1": -122.4751,
+        "lat2": 37.71305555555556,
+        "lon2": -122.4625,
+        "color": "008000"
+    },
+    {
+        "station1": "19th Avenue and Junipero Serra/19th Avenue and Randolph",
+        "station2": "Randolph and Arch",
+        "lat1": 37.71305555555556,
+        "lon1": -122.4625,
+        "lat2": 37.7142,
+        "lon2": -122.4672,
+        "color": "008000"
+    },
+    {
+        "station1": "Randolph and Arch",
+        "station2": "Randolph and Bright",
+        "lat1": 37.7142,
+        "lon1": -122.4672,
+        "lat2": 37.7142,
+        "lon2": -122.4636,
+        "color": "008000"
+    },
+    {
+        "station1": "Randolph and Bright",
+        "station2": "Broad and Orizaba/Broad and Randolph",
+        "lat1": 37.7142,
+        "lon1": -122.4636,
+        "lat2": 37.71305555555556,
+        "lon2": -122.4625,
+        "color": "008000"
+    },
+    {
+        "station1": "Broad and Orizaba/Broad and Randolph",
+        "station2": "Broad and Capitol",
+        "lat1": 37.71305555555556,
+        "lon1": -122.4625,
+        "lat2": 37.7131,
+        "lon2": -122.4592,
+        "color": "008000"
+    },
+    {
+        "station1": "Broad and Capitol",
+        "station2": "Broad and Plymouth",
+        "lat1": 37.7131,
+        "lon1": -122.4592,
+        "lat2": 37.7131,
+        "lon2": -122.4561,
+        "color": "008000"
+    },
+    {
+        "station1": "Broad and Plymouth",
+        "station2": "San Jose and Farallones",
+        "lat1": 37.7131,
+        "lon1": -122.4561,
+        "lat2": 37.7142,
+        "lon2": -122.4522,
+        "color": "008000"
+    },
+    {
+        "station1": "San Jose and Farallones",
+        "station2": "San Jose and Lakeview",
+        "lat1": 37.7142,
+        "lon1": -122.4522,
+        "lat2": 37.7161,
+        "lon2": -122.4503,
+        "color": "008000"
+    },
+    {
+        "station1": "San Jose and Lakeview",
+        "station2": "San Jose and Geneva (Balboa Park)",
+        "lat1": 37.7161,
+        "lon1": -122.4503,
+        "lat2": 37.72166666666667,
+        "lon2": -122.4475,
+        "color": "008000"
+    },
+    {
+        "station1": "San Jose and Geneva (Balboa Park)",
+        "station2": "Balboa Park",
+        "lat1": 37.72166666666667,
+        "lon1": -122.4475,
+        "lat2": 37.7217,
+        "lon2": -122.4475,
+        "color": "008000"
+    },
+    {
+        "station1": "Chinatown",
+        "station2": "Union Square/Market Street",
+        "lat1": 37.794806,
+        "lon1": -122.408082,
+        "lat2": 37.7878,
+        "lon2": -122.4069,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Union Square/Market Street",
+        "station2": "Yerba Buena/Moscone",
+        "lat1": 37.7878,
+        "lon1": -122.4069,
+        "lat2": 37.7819,
+        "lon2": -122.4008,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Yerba Buena/Moscone",
+        "station2": "4th and Brannan",
+        "lat1": 37.7819,
+        "lon1": -122.4008,
+        "lat2": 37.7783,
+        "lon2": -122.3964,
+        "color": "FF0000"
+    },
+    {
+        "station1": "4th and Brannan",
+        "station2": "4th and King",
+        "lat1": 37.7783,
+        "lon1": -122.3964,
+        "lat2": 37.7764,
+        "lon2": -122.3944,
+        "color": "FF0000"
+    },
+    {
+        "station1": "4th and King",
+        "station2": "Mission Rock",
+        "lat1": 37.7764,
+        "lon1": -122.3944,
+        "lat2": 37.773,
+        "lon2": -122.3897,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Mission Rock",
+        "station2": "UCSF/Chase Center",
+        "lat1": 37.773,
+        "lon1": -122.3897,
+        "lat2": 37.7689,
+        "lon2": -122.3892,
+        "color": "FF0000"
+    },
+    {
+        "station1": "UCSF/Chase Center",
+        "station2": "UCSF Medical Center",
+        "lat1": 37.7689,
+        "lon1": -122.3892,
+        "lat2": 37.7639,
+        "lon2": -122.3883,
+        "color": "FF0000"
+    },
+    {
+        "station1": "UCSF Medical Center",
+        "station2": "20th Street",
+        "lat1": 37.7639,
+        "lon1": -122.3883,
+        "lat2": 37.7603,
+        "lon2": -122.3886,
+        "color": "FF0000"
+    },
+    {
+        "station1": "20th Street",
+        "station2": "23rd Street",
+        "lat1": 37.7603,
+        "lon1": -122.3886,
+        "lat2": 37.7558,
+        "lon2": -122.3883,
+        "color": "FF0000"
+    },
+    {
+        "station1": "23rd Street",
+        "station2": "Marin Street",
+        "lat1": 37.7558,
+        "lon1": -122.3883,
+        "lat2": 37.749,
+        "lon2": -122.3874,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Marin Street",
+        "station2": "Evans",
+        "lat1": 37.749,
+        "lon1": -122.3874,
+        "lat2": 37.7428,
+        "lon2": -122.3878,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Evans",
+        "station2": "Hudson/Innes",
+        "lat1": 37.7428,
+        "lon1": -122.3878,
+        "lat2": 37.74,
+        "lon2": -122.3889,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Hudson/Innes",
+        "station2": "Kirkwood/La Salle",
+        "lat1": 37.74,
+        "lon1": -122.3889,
+        "lat2": 37.7375,
+        "lon2": -122.3897,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Kirkwood/La Salle",
+        "station2": "Oakdale/Palou",
+        "lat1": 37.7375,
+        "lon1": -122.3897,
+        "lat2": 37.7343,
+        "lon2": -122.3909,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Oakdale/Palou",
+        "station2": "Revere/Shafter",
+        "lat1": 37.7343,
+        "lon1": -122.3909,
+        "lat2": 37.7323,
+        "lon2": -122.3915,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Revere/Shafter",
+        "station2": "Williams",
+        "lat1": 37.7323,
+        "lon1": -122.3915,
+        "lat2": 37.71881944444445,
+        "lon2": -122.39748055555556,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Williams",
+        "station2": "Carroll",
+        "lat1": 37.71881944444445,
+        "lon1": -122.39748055555556,
+        "lat2": 37.7256,
+        "lon2": -122.3942,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Carroll",
+        "station2": "Gilman/Paul",
+        "lat1": 37.7256,
+        "lon1": -122.3942,
+        "lat2": 37.7225,
+        "lon2": -122.3956,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Gilman/Paul",
+        "station2": "La Conte",
+        "lat1": 37.7225,
+        "lon1": -122.3956,
+        "lat2": 37.71881944444445,
+        "lon2": -122.39748055555556,
+        "color": "FF0000"
+    },
+    {
+        "station1": "La Conte",
+        "station2": "Arleta",
+        "lat1": 37.71881944444445,
+        "lon1": -122.39748055555556,
+        "lat2": 37.7125,
+        "lon2": -122.4025,
+        "color": "FF0000"
+    },
+    {
+        "station1": "Arleta",
+        "station2": "Sunnydale",
+        "lat1": 37.7125,
+        "lon1": -122.4025,
+        "lat2": 37.7089,
+        "lon2": -122.4053,
+        "color": "FF0000"
+    },
+    {
+        "station1": "4th and King",
+        "station2": "2nd and King",
+        "lat1": 37.7764,
+        "lon1": -122.3944,
+        "lat2": 37.7844,
+        "lon2": -122.3881,
+        "color": "00008B"
+    },
+    {
+        "station1": "2nd and King",
+        "station2": "The Embarcadero and Brannan",
+        "lat1": 37.7844,
+        "lon1": -122.3881,
+        "lat2": 37.7844,
+        "lon2": -122.3881,
+        "color": "00008B"
+    },
+    {
+        "station1": "The Embarcadero and Brannan",
+        "station2": "The Embarcadero and Folsom",
+        "lat1": 37.7844,
+        "lon1": -122.3881,
+        "lat2": 37.7906,
+        "lon2": -122.3894,
+        "color": "00008B"
+    },
+    {
+        "station1": "The Embarcadero and Folsom",
+        "station2": "Embarcadero",
+        "lat1": 37.7906,
+        "lon1": -122.3894,
+        "lat2": 37.7931,
+        "lon2": -122.3972,
+        "color": "00008B"
+    },
+    {
+        "station1": "Van Ness",
+        "station2": "Duboce and Church",
+        "lat1": 37.775,
+        "lon1": -122.4189,
+        "lat2": 37.76946,
+        "lon2": -122.42912,
+        "color": "00008B"
+    },
+    {
+        "station1": "Duboce and Church",
+        "station2": "Duboce and Noe",
+        "lat1": 37.76946,
+        "lon1": -122.42912,
+        "lat2": 37.7692,
+        "lon2": -122.4336,
+        "color": "00008B"
+    },
+    {
+        "station1": "Duboce and Noe",
+        "station2": "Carl and Cole",
+        "lat1": 37.7692,
+        "lon1": -122.4336,
+        "lat2": 37.7658,
+        "lon2": -122.45,
+        "color": "00008B"
+    },
+    {
+        "station1": "Carl and Cole",
+        "station2": "Carl and Stanyan",
+        "lat1": 37.7658,
+        "lon1": -122.45,
+        "lat2": 37.7656,
+        "lon2": -122.4528,
+        "color": "00008B"
+    },
+    {
+        "station1": "Carl and Stanyan",
+        "station2": "Carl and Hillway",
+        "lat1": 37.7656,
+        "lon1": -122.4528,
+        "lat2": 37.765,
+        "lon2": -122.4567,
+        "color": "00008B"
+    },
+    {
+        "station1": "Carl and Hillway",
+        "station2": "UCSF Parnassus",
+        "lat1": 37.765,
+        "lon1": -122.4567,
+        "lat2": 37.76416666666667,
+        "lon2": -122.46638888888889,
+        "color": "00008B"
+    },
+    {
+        "station1": "UCSF Parnassus",
+        "station2": "Irving and 5th Avenue/Irving and 6th Avenue",
+        "lat1": 37.76416666666667,
+        "lon1": -122.46638888888889,
+        "lat2": 37.76028,
+        "lon2": -122.50913,
+        "color": "00008B"
+    },
+    {
+        "station1": "Irving and 5th Avenue/Irving and 6th Avenue",
+        "station2": "Irving and 8th Avenue/9th Avenue and Irving",
+        "lat1": 37.76028,
+        "lon1": -122.50913,
+        "lat2": 37.794806,
+        "lon2": -122.408082,
+        "color": "00008B"
+    },
+    {
+        "station1": "Irving and 8th Avenue/9th Avenue and Irving",
+        "station2": "Judah and 9th Avenue",
+        "lat1": 37.794806,
+        "lon1": -122.408082,
+        "lat2": 37.7622,
+        "lon2": -122.4661,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 9th Avenue",
+        "station2": "Judah and 12th Avenue",
+        "lat1": 37.7622,
+        "lon1": -122.4661,
+        "lat2": 37.7622,
+        "lon2": -122.4694,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 12th Avenue",
+        "station2": "Judah and Funston",
+        "lat1": 37.7622,
+        "lon1": -122.4694,
+        "lat2": 37.7619,
+        "lon2": -122.4706,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and Funston",
+        "station2": "Judah and 15th Avenue",
+        "lat1": 37.7619,
+        "lon1": -122.4706,
+        "lat2": 37.7619,
+        "lon2": -122.4739,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 15th Avenue",
+        "station2": "Judah and 19th Avenue",
+        "lat1": 37.7619,
+        "lon1": -122.4739,
+        "lat2": 37.7617,
+        "lon2": -122.4769,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 19th Avenue",
+        "station2": "Judah and 22nd Avenue",
+        "lat1": 37.7617,
+        "lon1": -122.4769,
+        "lat2": 37.7614,
+        "lon2": -122.4814,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 22nd Avenue",
+        "station2": "Judah and 25th Avenue",
+        "lat1": 37.7614,
+        "lon1": -122.4814,
+        "lat2": 37.7614,
+        "lon2": -122.4833,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 25th Avenue",
+        "station2": "Judah and 28th Avenue",
+        "lat1": 37.7614,
+        "lon1": -122.4833,
+        "lat2": 37.7614,
+        "lon2": -122.4867,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 28th Avenue",
+        "station2": "Judah and 31st Avenue",
+        "lat1": 37.7614,
+        "lon1": -122.4867,
+        "lat2": 37.7611,
+        "lon2": -122.4897,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 31st Avenue",
+        "station2": "Judah and 34th Avenue",
+        "lat1": 37.7611,
+        "lon1": -122.4897,
+        "lat2": 37.7608,
+        "lon2": -122.4931,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 34th Avenue",
+        "station2": "Judah and Sunset",
+        "lat1": 37.7608,
+        "lon1": -122.4931,
+        "lat2": 37.7608,
+        "lon2": -122.4956,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and Sunset",
+        "station2": "Judah and 40th Avenue",
+        "lat1": 37.7608,
+        "lon1": -122.4956,
+        "lat2": 37.7608,
+        "lon2": -122.4994,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 40th Avenue",
+        "station2": "Judah and 43rd Avenue",
+        "lat1": 37.7608,
+        "lon1": -122.4994,
+        "lat2": 37.7606,
+        "lon2": -122.5028,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 43rd Avenue",
+        "station2": "Judah and 46th Avenue",
+        "lat1": 37.7606,
+        "lon1": -122.5028,
+        "lat2": 37.7606,
+        "lon2": -122.5058,
+        "color": "00008B"
+    },
+    {
+        "station1": "Judah and 46th Avenue",
+        "station2": "Judah and La Playa (Ocean Beach)",
+        "lat1": 37.7606,
+        "lon1": -122.5058,
+        "lat2": 37.794806,
+        "lon2": -122.408082,
+        "color": "00008B"
+    }
+]

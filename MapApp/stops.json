@@ -1,0 +1,940 @@
+[
+    {
+        "stop_id": "0",
+        "stop_name": "Embarcadero",
+        "latitude": 37.7931,
+        "longitude": -122.3972,
+        "routes": "J Church, K Ingleside, L Taraval, M Ocean View, N Judah",
+        "route_color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "stop_id": "1",
+        "stop_name": "Montgomery",
+        "latitude": 37.789355,
+        "longitude": -122.401942,
+        "routes": "J Church, K Ingleside, L Taraval, M Ocean View, N Judah",
+        "route_color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "stop_id": "2",
+        "stop_name": "Powell",
+        "latitude": 37.784,
+        "longitude": -122.408,
+        "routes": "J Church, K Ingleside, L Taraval, M Ocean View, N Judah",
+        "route_color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "stop_id": "3",
+        "stop_name": "Civic Center",
+        "latitude": 37.779861,
+        "longitude": -122.413498,
+        "routes": "J Church, K Ingleside, L Taraval, M Ocean View, N Judah",
+        "route_color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "stop_id": "4",
+        "stop_name": "Van Ness",
+        "latitude": 37.775,
+        "longitude": -122.4189,
+        "routes": "J Church, K Ingleside, L Taraval, M Ocean View, N Judah",
+        "route_color": "FFFF00, ADD8E6, 800080, 008000, 00008B"
+    },
+    {
+        "stop_id": "5",
+        "stop_name": "Church",
+        "latitude": 37.76781388888889,
+        "longitude": -122.42906666666669,
+        "routes": "J Church, K Ingleside, L Taraval, M Ocean View",
+        "route_color": "FFFF00, ADD8E6, 800080, 008000"
+    },
+    {
+        "stop_id": "6",
+        "stop_name": "Castro",
+        "latitude": 37.7625,
+        "longitude": -122.4356,
+        "routes": "K Ingleside, L Taraval, M Ocean View",
+        "route_color": "ADD8E6, 800080, 008000"
+    },
+    {
+        "stop_id": "7",
+        "stop_name": "Forest Hill",
+        "latitude": 37.74805555555556,
+        "longitude": -122.45916666666668,
+        "routes": "K Ingleside, L Taraval, M Ocean View",
+        "route_color": "ADD8E6, 800080, 008000"
+    },
+    {
+        "stop_id": "8",
+        "stop_name": "West Portal",
+        "latitude": 37.7409,
+        "longitude": -122.466,
+        "routes": "K Ingleside, L Taraval, M Ocean View",
+        "route_color": "ADD8E6, 800080, 008000"
+    },
+    {
+        "stop_id": "9",
+        "stop_name": "Church and Duboce",
+        "latitude": 37.7694,
+        "longitude": -122.4292,
+        "routes": "J Church, N Judah",
+        "route_color": "FFFF00, 00008B"
+    },
+    {
+        "stop_id": "10",
+        "stop_name": "Church and 16th Street",
+        "latitude": 37.7644,
+        "longitude": -122.4286,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "11",
+        "stop_name": "Church and 18th Street",
+        "latitude": 37.7614,
+        "longitude": -122.4283,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "12",
+        "stop_name": "Right Of Way/20th Street",
+        "latitude": 37.7583,
+        "longitude": -122.4278,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "13",
+        "stop_name": "Right Of Way/Liberty Street",
+        "latitude": 37.7572,
+        "longitude": -122.4269,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "14",
+        "stop_name": "Right Of Way/21st Street",
+        "latitude": 37.7567,
+        "longitude": -122.4269,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "15",
+        "stop_name": "Church and 22nd Street",
+        "latitude": 37.755,
+        "longitude": -122.4278,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "16",
+        "stop_name": "Church and 24th Street",
+        "latitude": 37.7517,
+        "longitude": -122.4275,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "17",
+        "stop_name": "Church and Clipper",
+        "latitude": 37.7492,
+        "longitude": -122.4272,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "18",
+        "stop_name": "Church and 27th Street",
+        "latitude": 37.7469,
+        "longitude": -122.4269,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "19",
+        "stop_name": "Church and 29th Street",
+        "latitude": 37.7442,
+        "longitude": -122.4267,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "20",
+        "stop_name": "Church and 30th Street",
+        "latitude": 37.7422,
+        "longitude": -122.4264,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "21",
+        "stop_name": "30th Street and Dolores",
+        "latitude": 37.7422,
+        "longitude": -122.4242,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "22",
+        "stop_name": "San Jose/Glen Park",
+        "latitude": 37.7325,
+        "longitude": -122.4339,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "23",
+        "stop_name": "San Jose and Randall",
+        "latitude": 37.7397,
+        "longitude": -122.4242,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "24",
+        "stop_name": "San Jose and Santa Rosa",
+        "latitude": 37.7289,
+        "longitude": -122.44,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "25",
+        "stop_name": "San Jose and Ocean",
+        "latitude": 37.7231,
+        "longitude": -122.4447,
+        "routes": "J Church",
+        "route_color": "FFFF00"
+    },
+    {
+        "stop_id": "26",
+        "stop_name": "Balboa Park",
+        "latitude": 37.7217,
+        "longitude": -122.4475,
+        "routes": "J Church, K Ingleside",
+        "route_color": "FFFF00, ADD8E6"
+    },
+    {
+        "stop_id": "27",
+        "stop_name": "West Portal and 14th Avenue",
+        "latitude": 37.7381,
+        "longitude": -122.4692,
+        "routes": "K Ingleside, M Ocean View",
+        "route_color": "ADD8E6, 008000"
+    },
+    {
+        "stop_id": "28",
+        "stop_name": "St. Francis Circle",
+        "latitude": 37.7347,
+        "longitude": -122.47,
+        "routes": "K Ingleside, M Ocean View",
+        "route_color": "ADD8E6, 008000"
+    },
+    {
+        "stop_id": "29",
+        "stop_name": "Junipero Serra and Ocean",
+        "latitude": 37.7311,
+        "longitude": -122.4722,
+        "routes": "K Ingleside",
+        "route_color": "ADD8E6"
+    },
+    {
+        "stop_id": "30",
+        "stop_name": "Ocean and San Leandro",
+        "latitude": 37.73,
+        "longitude": -122.4694,
+        "routes": "K Ingleside",
+        "route_color": "ADD8E6"
+    },
+    {
+        "stop_id": "31",
+        "stop_name": "Ocean and Aptos",
+        "latitude": 37.7283,
+        "longitude": -122.4678,
+        "routes": "K Ingleside",
+        "route_color": "ADD8E6"
+    },
+    {
+        "stop_id": "32",
+        "stop_name": "Ocean and Fairfield/Ocean and Victoria",
+        "latitude": 37.72611111111112,
+        "longitude": -122.46416666666669,
+        "routes": "K Ingleside",
+        "route_color": "ADD8E6"
+    },
+    {
+        "stop_id": "33",
+        "stop_name": "Ocean and Dorado/Ocean and Jules",
+        "latitude": 37.725,
+        "longitude": -122.46111111111112,
+        "routes": "K Ingleside",
+        "route_color": "ADD8E6"
+    },
+    {
+        "stop_id": "34",
+        "stop_name": "Ocean and Miramar",
+        "latitude": 37.7244,
+        "longitude": -122.4583,
+        "routes": "K Ingleside",
+        "route_color": "ADD8E6"
+    },
+    {
+        "stop_id": "35",
+        "stop_name": "Ocean and Leo",
+        "latitude": 37.72349,
+        "longitude": -122.4541,
+        "routes": "K Ingleside",
+        "route_color": "ADD8E6"
+    },
+    {
+        "stop_id": "36",
+        "stop_name": "Ocean Avenue/CCSF Pedestrian Bridge",
+        "latitude": 37.7231,
+        "longitude": -122.4522,
+        "routes": "K Ingleside",
+        "route_color": "ADD8E6"
+    },
+    {
+        "stop_id": "37",
+        "stop_name": "Ulloa and 14th Avenue",
+        "latitude": 37.7417,
+        "longitude": -122.47,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "38",
+        "stop_name": "15th Avenue and Taraval",
+        "latitude": 37.7433,
+        "longitude": -122.4714,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "39",
+        "stop_name": "Taraval and 17th Avenue",
+        "latitude": 37.7431,
+        "longitude": -122.4736,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "40",
+        "stop_name": "Taraval and 19th Avenue",
+        "latitude": 37.7431,
+        "longitude": -122.4756,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "41",
+        "stop_name": "Taraval and 22nd Avenue/Taraval and 23rd Avenue",
+        "latitude": 37.74277777777778,
+        "longitude": -122.47888888888887,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "42",
+        "stop_name": "Taraval and 26th Avenue",
+        "latitude": 37.7428,
+        "longitude": -122.4831,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "43",
+        "stop_name": "Taraval and 30th Avenue",
+        "latitude": 37.7425,
+        "longitude": -122.4875,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "44",
+        "stop_name": "Taraval and 32nd Avenue",
+        "latitude": 37.7425,
+        "longitude": -122.4897,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "45",
+        "stop_name": "Taraval and Sunset",
+        "latitude": 37.7422,
+        "longitude": -122.4944,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "46",
+        "stop_name": "Taraval and 40th Avenue",
+        "latitude": 37.7419,
+        "longitude": -122.4981,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "47",
+        "stop_name": "Taraval and 42nd Avenue",
+        "latitude": 37.7419,
+        "longitude": -122.5003,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "48",
+        "stop_name": "Taraval and 44th Avenue",
+        "latitude": 37.7419,
+        "longitude": -122.5025,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "49",
+        "stop_name": "46th Avenue and Taraval/46th Avenue",
+        "latitude": 37.7175,
+        "longitude": -122.47277777777778,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "50",
+        "stop_name": "46th Avenue and Vicente",
+        "latitude": 37.7381,
+        "longitude": -122.5044,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "51",
+        "stop_name": "Wawona and 46th Avenue",
+        "latitude": 37.7361,
+        "longitude": -122.5042,
+        "routes": "L Taraval",
+        "route_color": "800080"
+    },
+    {
+        "stop_id": "52",
+        "stop_name": "Right Of Way/Ocean",
+        "latitude": 37.7317,
+        "longitude": -122.4739,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "53",
+        "stop_name": "Right Of Way/Eucalyptus",
+        "latitude": 37.7311,
+        "longitude": -122.4744,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "54",
+        "stop_name": "Stonestown Galleria",
+        "latitude": 37.7272,
+        "longitude": -122.4747,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "55",
+        "stop_name": "San Francisco State University",
+        "latitude": 37.7217,
+        "longitude": -122.4751,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "56",
+        "stop_name": "19th Avenue and Junipero Serra/19th Avenue and Randolph",
+        "latitude": 37.71305555555556,
+        "longitude": -122.4625,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "57",
+        "stop_name": "Randolph and Arch",
+        "latitude": 37.7142,
+        "longitude": -122.4672,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "58",
+        "stop_name": "Randolph and Bright",
+        "latitude": 37.7142,
+        "longitude": -122.4636,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "59",
+        "stop_name": "Broad and Orizaba/Broad and Randolph",
+        "latitude": 37.71305555555556,
+        "longitude": -122.4625,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "60",
+        "stop_name": "Broad and Capitol",
+        "latitude": 37.7131,
+        "longitude": -122.4592,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "61",
+        "stop_name": "Broad and Plymouth",
+        "latitude": 37.7131,
+        "longitude": -122.4561,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "62",
+        "stop_name": "San Jose and Farallones",
+        "latitude": 37.7142,
+        "longitude": -122.4522,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "63",
+        "stop_name": "San Jose and Lakeview",
+        "latitude": 37.7161,
+        "longitude": -122.4503,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "64",
+        "stop_name": "San Jose and Geneva (Balboa Park)",
+        "latitude": 37.72166666666667,
+        "longitude": -122.4475,
+        "routes": "M Ocean View",
+        "route_color": "008000"
+    },
+    {
+        "stop_id": "65",
+        "stop_name": "Duboce and Noe",
+        "latitude": 37.7692,
+        "longitude": -122.4336,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "66",
+        "stop_name": "Carl and Cole",
+        "latitude": 37.7658,
+        "longitude": -122.45,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "67",
+        "stop_name": "Carl and Stanyan",
+        "latitude": 37.7656,
+        "longitude": -122.4528,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "68",
+        "stop_name": "Carl and Hillway",
+        "latitude": 37.765,
+        "longitude": -122.4567,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "69",
+        "stop_name": "UCSF Parnassus",
+        "latitude": 37.76416666666667,
+        "longitude": -122.46638888888889,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "70",
+        "stop_name": "Irving and 5th Avenue/Irving and 6th Avenue",
+        "latitude": 37.76028,
+        "longitude": -122.50913,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "71",
+        "stop_name": "Irving and 8th Avenue/9th Avenue and Irving",
+        "latitude": 37.794806,
+        "longitude": -122.408082,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "72",
+        "stop_name": "Judah and 9th Avenue",
+        "latitude": 37.7622,
+        "longitude": -122.4661,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "73",
+        "stop_name": "Judah and 12th Avenue",
+        "latitude": 37.7622,
+        "longitude": -122.4694,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "74",
+        "stop_name": "Judah and Funston",
+        "latitude": 37.7619,
+        "longitude": -122.4706,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "75",
+        "stop_name": "Judah and 15th Avenue",
+        "latitude": 37.7619,
+        "longitude": -122.4739,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "76",
+        "stop_name": "Judah and 19th Avenue",
+        "latitude": 37.7617,
+        "longitude": -122.4769,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "77",
+        "stop_name": "Judah and 22nd Avenue",
+        "latitude": 37.7614,
+        "longitude": -122.4814,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "78",
+        "stop_name": "Judah and 25th Avenue",
+        "latitude": 37.7614,
+        "longitude": -122.4833,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "79",
+        "stop_name": "Judah and 28th Avenue",
+        "latitude": 37.7614,
+        "longitude": -122.4867,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "80",
+        "stop_name": "Judah and 31st Avenue",
+        "latitude": 37.7611,
+        "longitude": -122.4897,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "81",
+        "stop_name": "Judah and 34th Avenue",
+        "latitude": 37.7608,
+        "longitude": -122.4931,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "82",
+        "stop_name": "Judah and Sunset",
+        "latitude": 37.7608,
+        "longitude": -122.4956,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "83",
+        "stop_name": "Judah and 40th Avenue",
+        "latitude": 37.7608,
+        "longitude": -122.4994,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "84",
+        "stop_name": "Judah and 43rd Avenue",
+        "latitude": 37.7606,
+        "longitude": -122.5028,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "85",
+        "stop_name": "Judah and 46th Avenue",
+        "latitude": 37.7606,
+        "longitude": -122.5058,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "86",
+        "stop_name": "Judah and La Playa (Ocean Beach)",
+        "latitude": 37.794806,
+        "longitude": -122.408082,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "87",
+        "stop_name": "The Embarcadero and Folsom",
+        "latitude": 37.7906,
+        "longitude": -122.3894,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "88",
+        "stop_name": "The Embarcadero and Brannan",
+        "latitude": 37.7844,
+        "longitude": -122.3881,
+        "routes": "N Judah",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "89",
+        "stop_name": "2nd and King",
+        "latitude": 37.7844,
+        "longitude": -122.3881,
+        "routes": "N Judah, T Third Street",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "90",
+        "stop_name": "4th and King",
+        "latitude": 37.7764,
+        "longitude": -122.3944,
+        "routes": "N Judah, T Third Street",
+        "route_color": "00008B"
+    },
+    {
+        "stop_id": "91",
+        "stop_name": "Union Square/Market Street",
+        "latitude": 37.7878,
+        "longitude": -122.4069,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "92",
+        "stop_name": "Yerba Buena/Moscone",
+        "latitude": 37.7819,
+        "longitude": -122.4008,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "93",
+        "stop_name": "4th and Brannan",
+        "latitude": 37.7783,
+        "longitude": -122.3964,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "94",
+        "stop_name": "Mission Rock",
+        "latitude": 37.773,
+        "longitude": -122.3897,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "95",
+        "stop_name": "UCSF/Chase Center",
+        "latitude": 37.7689,
+        "longitude": -122.3892,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "96",
+        "stop_name": "UCSF Medical Center",
+        "latitude": 37.7639,
+        "longitude": -122.3883,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "97",
+        "stop_name": "Marin Street",
+        "latitude": 37.749,
+        "longitude": -122.3874,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "98",
+        "stop_name": "Hudson/Innes",
+        "latitude": 37.74,
+        "longitude": -122.3889,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "99",
+        "stop_name": "Hudson/Innes",
+        "latitude": 37.74,
+        "longitude": -122.3889,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "100",
+        "stop_name": "Kirkwood/La Salle",
+        "latitude": 37.7375,
+        "longitude": -122.3897,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "101",
+        "stop_name": "Oakdale/Palou",
+        "latitude": 37.7343,
+        "longitude": -122.3909,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "102",
+        "stop_name": "Revere/Shafter",
+        "latitude": 37.7323,
+        "longitude": -122.3915,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "103",
+        "stop_name": "Williams",
+        "latitude": 37.71881944444445,
+        "longitude": -122.39748055555556,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "104",
+        "stop_name": "Carroll",
+        "latitude": 37.7256,
+        "longitude": -122.3942,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "105",
+        "stop_name": "Gilman/Paul",
+        "latitude": 37.7225,
+        "longitude": -122.3956,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "106",
+        "stop_name": "La Conte",
+        "latitude": 37.71881944444445,
+        "longitude": -122.39748055555556,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "107",
+        "stop_name": "Arleta",
+        "latitude": 37.7125,
+        "longitude": -122.4025,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "108",
+        "stop_name": "Sunnydale",
+        "latitude": 37.7089,
+        "longitude": -122.4053,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+
+    {
+        "stop_id": "109",
+        "stop_name": "Duboce and Church",
+        "latitude": 37.76946,
+        "longitude": -122.42912,
+        "routes": "J Church, N Judah",
+        "route_color": ""
+    },
+    {
+        "stop_id": "110",
+        "stop_name": "Church and Market",
+        "latitude": 37.7678,
+        "longitude": -122.42907,
+        "routes": "K Ingleside, L Taraval, M Ocean View",
+        "route_color": ""
+    },
+    {
+        "stop_id": "111",
+        "stop_name": "46th Avenue and Ulloa",
+        "latitude": 37.7400,
+        "longitude": -122.5044,
+        "routes": "L Taraval",
+        "route_color": ""
+    },
+    {
+        "stop_id": "112",
+        "stop_name": "20th Street",
+        "latitude": 37.7603,
+        "longitude": -122.3886,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "113",
+        "stop_name": "San Jose and Santa Ynez",
+        "latitude": 37.72578,
+        "longitude": -122.44240,
+        "routes": "J Church",
+        "route_color": ""
+    },
+    {
+        "stop_id": "114",
+        "stop_name": "23rd Street",
+        "latitude": 37.7558,
+        "longitude": -122.3883,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "115",
+        "stop_name": "Chinatown",
+        "latitude": 37.794806,
+        "longitude": -122.408082,
+        "routes": "T Third Street",
+        "route_color": ""
+    },
+    {
+        "stop_id": "116",
+        "stop_name": "Evans",
+        "latitude": 37.7428,
+        "longitude": -122.3878,
+        "routes": "T Third Street",
+        "route_color": ""
+    }
+    
+]
